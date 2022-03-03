@@ -1,0 +1,15 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "HelloWorld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saezzatsayed/AdvJS-saezzatsayed/project0"
+  },
+  "author": "",
+  "license": "ISC"
+}
