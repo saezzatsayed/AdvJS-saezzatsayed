@@ -1,0 +1,25 @@
+{
+  "name": "problem1",
+  "version": "1.0.0",
+  "description": "tri Problem",
+  "main": "tri.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saezzatsayed/AdvJS-saezzatsayed.git"
+  },
+  "author": "Saif Ezzat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saezzatsayed/AdvJS-saezzatsayed/issues"
+  },
+  "homepage": "https://github.com/saezzatsayed/AdvJS-saezzatsayed#readme",
+  "dependencies": {
+    "prompt": "^1.2.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
