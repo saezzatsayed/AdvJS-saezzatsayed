@@ -1,0 +1,22 @@
+{
+  "name": "thelastproblem",
+  "version": "1.0.0",
+  "description": "The Last Problem",
+  "main": "thelastproblem.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saezzatsayed/AdvJS-saezzatsayed.git#main"
+  },
+  "author": "Saif Ezzat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saezzatsayed/AdvJS-saezzatsayed/issues"
+  },
+  "homepage": "https://github.com/saezzatsayed/AdvJS-saezzatsayed/tree/main#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

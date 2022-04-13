@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/saezzatsayed/AdvJS-saezzatsayed/issues"
   },
-  "homepage": "https://github.com/saezzatsayed/AdvJS-saezzatsayed#readme"
+  "homepage": "https://github.com/saezzatsayed/AdvJS-saezzatsayed#readme",
+  "dependencies": {
+    "prompt": "^1.2.2"
+  }
 }
