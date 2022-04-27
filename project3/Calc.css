@@ -1,0 +1,39 @@
+ .button{
+    background-color: whitesmoke;
+    color: black;
+    font-size: 16px;
+    padding: 16px;
+    border-radius: 16px;
+    border: 0px black;
+    width: 50px;
+    display: grid;
+    float: left;
+    cursor: pointer;
+ }
+
+ .container{
+     width: 400px;
+     font-size: 0px;
+ }
+
+
+#equal{
+    background-color: black;
+    color: white;
+}
+#output{
+    height: 60px;
+    width: 325px;
+    background-color:whitesmoke;
+    color: black;
+    text-align: right;
+    font-size: 16px;
+}
+
+#space{
+    height: 60px;
+}
+
+#space2{
+    background-color: white;
+}
